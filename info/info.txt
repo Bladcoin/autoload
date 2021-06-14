@@ -1,0 +1,20 @@
+Name: vlad
+Email: vlados@gmail.com
+Age: 16
+Profession: web-developer
+register_time: 11/06/2021/13/54
+
+Name: sds
+Email: vlad@gmail.com
+Age: 16
+Profession: web-developer
+register_time: 11/06/2021/13/54
+
+Данные не верны!
+
+Name: sds
+Email: vlad@gmail.com
+Age: 16
+Profession: web-developer
+register_time: 11/06/2021/13/54
+

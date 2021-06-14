@@ -1,0 +1,17 @@
+main {
+	display: grid;
+	align-items: center;
+	justify-items: center;
+	height: 100vh;
+}
+
+.form {
+	width:20%;
+}
+.button {
+	margin-top:20px;
+}
+.msg {
+	padding:20px;
+	border-radius: 3px;
+}
